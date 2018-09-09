@@ -1,17 +1,16 @@
 /*
  ============================================================================
- Name        : adpr.c
+ Name        : mygetcwd.c
  Author      : liuht
  Version     :
  Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
+ Description : getcwd()
  ============================================================================
  */
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>
-#include "func.h"
 #include <string.h>
 #include <sys/stat.h>
 #include <dirent.h>
